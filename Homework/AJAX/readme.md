@@ -1,0 +1,1 @@
+For this homework assignment I decided to try to work through the in class example, because I was sick during this class period and I missed it. I was actually really struggling with the assignment and ultimately couldn't get it to work. I was super bummed I couldn't get it pieced together in the end, even though I really did work with what was posted in the class GitHub.
