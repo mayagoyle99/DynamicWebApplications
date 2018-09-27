@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+<h1>Headlines</h1>
+  <ul id="breeds"></ul>
+</body>
+
+<script type="text/javascript">
+  
+   function createNode(element) {
+      return document.createElement(element);
+  }
+
+  function append(parent, el) {
+    return parent.appendChild(el);
+  }
+
+  const ul = document.getElementById('breeds');
+  
+  const url = "https://api.nytimes.com/svc/topstories/v2/home.json?api-key=1f0b2087b98240409e52d724ebfc2673"
+
+ 
+
+  fetch(url)
+  .then((resp) => resp.json())
+  .then(function(data) {
+    let breeds = data.results;
+    return breeds.map(function(breed) {
+      console.log(data.results)
+      let li = createNode('li'),
+          img = createNode('img'),
+          span = createNode('span');
+      //img.src = breed.results.title;
+      span.innerHTML = `${breed.results}`;
+      //append(li, img);
+      append(li, span);
+      append(ul, li);
+    })
+  })
+  .catch(function(error) {
+    console.log(error);
+  });  
+
+
+</script>
+</html>
