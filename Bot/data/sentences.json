@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "sentence": "Smoke in the water",
+    "element": "water"
+  },
+  {
+    "id": 2,
+    "sentence": "Don't drink the water!",
+    "element": "water"
+  },
+  {
+    "id": 3,
+    "sentence": "Fire in the hole!",
+    "element": "fire"
+  },
+  {
+    "id": 4,
+    "sentence": "Save the Earth!", "Earth moves at a speed of 1000 miles per hour!", "dskfaslkdfjasld",
+    "element": "earth"
+  }
+]
