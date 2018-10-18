@@ -1,22 +1,17 @@
 [
   {
     "id": 1,
-    "sentence": "Smoke in the water",
+    "sentences": ["69% of the fresh water on earth is trapped in glaciers.", "To make 1 pint of beer it takes 20 gallons of water.", "70% of the human brain is water."],
     "element": "water"
   },
   {
     "id": 2,
-    "sentence": "Don't drink the water!",
-    "element": "water"
-  },
-  {
-    "id": 3,
-    "sentence": "Fire in the hole!",
+    "sentences": ["90% of all wildfires are caused by humans", "Did you know fire makes water vapor? Put a cold spoon over a candle to test!", "A coal seam about 140 miles north of Sydney, Australia, has been burning by some estimates for 500,000 years."],
     "element": "fire"
   },
   {
-    "id": 4,
-    "sentence": "Save the Earth!", "Earth moves at a speed of 1000 miles per hour!", "dskfaslkdfjasld",
+    "id": 3,
+    "sentences": ["Save the Earth!", "Earth moves at a speed of 1000 miles per hour!", "Did you know the earth moves around the sun!"],
     "element": "earth"
   }
 ]
