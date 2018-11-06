@@ -4,3 +4,5 @@
 {"level":30,"time":1539836520527,"msg":"Timestamp: 2018-10-18T04:22:00.527Z\nText: 🌎 : Save the Earth!\nResult: It worked.\n","pid":16050,"hostname":"172-18-14-6.DYNAPOOL.NYU.EDU","v":1}
 {"level":30,"time":1539836640591,"msg":"Timestamp: 2018-10-18T04:24:00.590Z\nText: 🌊 : 70% of the human brain is water.\nResult: It worked.\n","pid":16099,"hostname":"172-18-14-6.DYNAPOOL.NYU.EDU","v":1}
 {"level":30,"time":1539836700346,"msg":"Timestamp: 2018-10-18T04:25:00.345Z\nText: 💦 : Smoke in the water\nResult: It worked.\n","pid":16123,"hostname":"172-18-14-6.DYNAPOOL.NYU.EDU","v":1}
+{"level":30,"time":1539876660354,"msg":"Timestamp: 2018-10-18T15:31:00.354Z\nText: 💥 : Did you know fire makes water vapor? Put a cold spoon over a candle to test!\nResult: It worked.\n","pid":16758,"hostname":"10-18-229-20.dynapool.wireless.nyu.edu","v":1}
+{"level":30,"time":1539881940317,"msg":"Timestamp: 2018-10-18T16:59:00.317Z\nText: 🌶 : Did you know fire makes water vapor? Put a cold spoon over a candle to test!\nResult: It worked.\n","pid":19069,"hostname":"10-18-229-20.dynapool.wireless.nyu.edu","v":1}

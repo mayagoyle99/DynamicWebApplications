@@ -15,7 +15,7 @@ let T = new Twit(config);
 // const every15seconds = '*/15 * * * * *';
 // const onceADay = '0 0 * * *';
 //This frequency is determined by CRON (link)
-const twiceADay = '25 12,0 * * *';
+const twiceADay = '59 12,0 * * *';
 
 cron.schedule(twiceADay, () => {
   postTweet();
