@@ -1,0 +1,2 @@
+Hi! First, you're going to input a username, email address and a password. Then, you're going be taken to the page where you search for your article. You can input the options: 1, 7, or 30. This searches the most popular articles from the past day, the past week or the past month. It's within the constraints of the NYT API. You cannot input custom numbers. 
+Enjoy!
