@@ -1,0 +1,1 @@
+Hello! To use this program, open two windows and start adding post it notes! You can draw on them, just like the whiteboard feature. Enjoy!
