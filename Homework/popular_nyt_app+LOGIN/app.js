@@ -74,12 +74,12 @@ app.post('/login', function (req, res) {
 })
 
 
-let UserObject = {
-  'maya': {
-    'password': '123password',
-    'email': 'mayaemail@gmail.com'
-  }
-};
+// let UserObject = {
+//   'maya': {
+//     'password': '123password',
+//     'email': 'mayaemail@gmail.com'
+//   }
+// };
 
 app.listen(3000, function(){
 	console.log('app us running on port 3000')
